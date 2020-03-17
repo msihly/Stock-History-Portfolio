@@ -1,0 +1,2 @@
+# Stock History Portfolio
+### This excel project was created for the CIS 3367 class of Spring 2019 at CUNY - Baruch College. This project involved the selection of a dataset to analyze using Excel and the techniques learned in the course. I selected 5 publicly traded stocks on the NYSE that I would potentially have invested in with limited knowledge, selected a year of recent (at the time) data, and created simple, yet effective displays of the time-series data and potential portfolios based on restrictions implemented through the Solver module.
